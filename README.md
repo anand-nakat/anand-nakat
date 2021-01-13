@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on ... React Projects
 - 🌱 I’m planning to learn --- Node.js & Express.js
 - ⚡ My Interests: ... Web Development, Coding & Binge Watching
+
+![image](https://github-readme-stats.vercel.app/api?username=anand-nakat&show_icons=true&theme=radical)
 <!--
 **anand-nakat/anand-nakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
