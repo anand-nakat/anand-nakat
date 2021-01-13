@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... React Projects
-- 🌱 I’m planning to learn --- Node.js & Express.js
-- ⚡ My Interests: ... Web Development, Coding & Binge Watching
+- 🔭 I’m currently working on : Building websites with React & Tailwind CSS
+- 🌱 I’m planning to learn : Node.js & Express.js
+- ⚡ My Interests: Web Development, Coding & Binge Watching
 
 ![image](https://github-readme-stats.vercel.app/api?username=anand-nakat&show_icons=true&theme=radical)
 <!--
