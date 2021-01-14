@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on : Building websites with React & Tailwind CSS
+- 🔭 I’m currently : Building websites with React & Tailwind CSS
 - 🌱 I’m planning to learn : Node.js & Express.js
 - ⚡ My Interests: Web Development, Coding & Binge Watching
 
