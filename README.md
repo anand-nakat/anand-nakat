@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on : Building websites with React & Tailwind CSS
-- 🌱 I’m planning to learn : Node.js & Express.js
+- 🔭 I’m currently working on : Learning Classical Machine Learning Algorithms and the math behind it!
 - ⚡ My Interests: Web Development, Coding & Binge Watching
 
 ![image](https://github-readme-stats.vercel.app/api?username=anand-nakat&show_icons=true&theme=radical)
